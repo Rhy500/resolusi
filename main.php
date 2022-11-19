@@ -1,13 +1,11 @@
 <?php 
 
-class coba {
-
+class materi {
+    public $materi = "materi"
 
 }
 
 
-$a = new Coba ()
-$b = new Coba ()
-$c = new Coba ()
-
-var_dump($)
+$produk1 = new produk()
+$produk1->materi = propertyphp
+var_dump($produk1):
